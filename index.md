@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Jacob Keller
+## Full-stack Software Engineer 
+##### jcb.keller@gmail.com | +1 (423) 600-9116 | [LinkedIn](https://www.linkedin.com/in/jacob-keller-490b35128/)
 
-You can use the [editor on GitHub](https://github.com/JcbKeller/showcase/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I’m a software engineer and startup veteran with a heavy focus on creating products that users love.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Co-Founder @ Holler (2019 - present)**
+Co-founded a mobile app startup, with the purpose of connecting people to the physical world around them. I was responsible for the planning and building of the Android and iOS apps. Try out the app here! - https://www.holler.fyi/
 
-### Markdown
+**A few accomplishments that were particularly challenging:**
+- We built a GPS-based system for real-time connection to other users in close proximity,
+without noticeable power drain from location services.
+- We built a social ecosystem that gives meaningful interactions to users, by taking into
+consideration where they are, what buildings are nearby, the time of day, friends in the
+area, and more.
+- We built a system for groups of users to share digital experiences, including screen-sharing
+and shared document-editing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### **Technologies used:**
+Java, Kotlin, Scala, Swift, Objective C, Postgres, SQL, Bash, Clojure, JavaScript, HTML,
+Elasticsearch, Spark, Firebase, React, Android Studio, Android SDK, Gradle, Maven, Docker, Digital Ocean, Git, TestFlight, Android API, Android Location Services, OpenAddresses, AWS CloudFormation, AWS CloudWatch, AWS ECS, AWS EC2, AWS S3, AWS Fargate, AWS API Gateway, AWS Route 53, AWS RDS, AWS VPC, AWS CloudFront, AWS Cognito, AWS Dynamo DB, IntelliJ Idea, XCode, and others
 
-```markdown
-Syntax highlighted code block
+### **Full-stack Engineer, Tracking and Attribution @ CJ.com (2018 - 19)**
+Worked on the expansion of the core tracking system for CJ Affiliate’s ad-tech, responsible for real-time ingesting and processing of millions of daily consumer interactions in their most critical “always-on” system.
+   
+#### **A few accomplishments that were particularly challenging:**
+- We modernized the core of the affiliate attribution system, a 20+ year old codebase at the
+center of the company’s revenue model.
+- We managed a world-wide network for processing web-traffic, and correlating web events
+across different sites and personas.
 
-# Header 1
-## Header 2
-### Header 3
+#### **Technologies used:**
+JavaScript, Python, Java, Scala, C#, React, Redux, GraphQL, Spark, Hadoop, Oracle, Bash,
+SQL, AWS CloudFormation, AWS CloudWatch, AWS Route 53, AWS RDS, AWS Kinesis, AWS EMR, AWS VPC, AWS Athena, AWS CloudFront, AWS Lamba, Maven, Eclipse, IntelliJ Idea, VSCode, Git, and others
 
-- Bulleted
-- List
+### **Full-stack Engineer, Analytics and Insights @ CJ.com (2017 - 18)**
+Designed and created a market-leading platform for real-time data analytics, allowing thousands of end-customers to understand what marketing strategies were working and how customers engaged with them.
 
-1. Numbered
-2. List
+#### **A few accomplishments that were particularly challenging:**
+- We built a brand-new custom analysis suite for large data-sets, and launching it to 20,000+
+customers.
+- We developed a platform that gives real-time analytics to users using big-data technologies.
+Technologies used:
+Clojure, Javascript, Node.js, React, Redux, Bash, Maven, Python, Spark, Hadoop,
+Cassandra, AWS CloudFormation, AWS CloudWatch, AWS ECS, AWS EC2, AWS S3, AWS Fargate, AWS API Gateway, AWS Route 53, AWS RDS, AWS Kinesis, AWS EMR, AWS VPC, AWS Athena, AWS Chatbot, AWS CloudFront, AWS Cognito, AWS Dynamo DB, AWS Kubernetes, AWS Lamba, and others
 
-**Bold** and _Italic_ and `Code` text
+### **BSEE @ University of Tennessee at Chattanooga (2016)**
+BS in Electrical Engineering with a focus in micro-electronics and autonomous robotics
 
-[Link](url) and ![Image](src)
-```
+### **Other Technologies**
+Used the following technologies on various personal and work projects:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JcbKeller/showcase/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+BASIC, C++, Matlab, Solidworks, 3dMax, Unreal Engine, Unity, Adobe Illustrator, Adobe XD, Poser 3D, Maya, and others
