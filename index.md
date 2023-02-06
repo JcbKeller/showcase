@@ -24,7 +24,7 @@ This included:
 - User-testing
 - Product launches
 
-### **Full-stack Engineer, Tracking and Attribution @ CJ.com (2018 - 19)**
+### **CJ.com, Tracking and Attribution / Full-stack Engineer lv2  (2018 - 19)**
 Worked on the expansion of the core tracking system for CJ Affiliate’s ad-tech, responsible for real-time ingesting and processing of millions of daily consumer interactions in their most critical “always-on” system.
    
 #### **A few accomplishments that were particularly challenging:**
@@ -33,7 +33,7 @@ center of the company’s revenue model.
 - We managed a world-wide network for processing web-traffic, and correlating web events
 across different sites and personas.
 
-### **Full-stack Engineer, Analytics and Insights @ CJ.com (2017 - 18)**
+### **CJ.com, Analytics and Insights / Full-stack Engineer lv1  (2017 - 18)**
 Designed and created a market-leading platform for real-time data analytics, allowing thousands of end-customers to understand what marketing strategies were working and how customers engaged with them.
 
 #### **A few accomplishments that were particularly challenging:**
