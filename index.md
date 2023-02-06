@@ -26,7 +26,7 @@ This included:
 
 ### **CJ.com, Tracking and Attribution / Full-stack Engineer lv2  (2018 - 19)**
 Worked on the expansion of the core tracking system for CJ Affiliate’s ad-tech, responsible for real-time ingesting and processing of millions of daily consumer interactions in their most critical “always-on” system.
-   
+
 #### **A few accomplishments that were particularly challenging:**
 - We modernized the core of the affiliate attribution system, a 20+ year old codebase at the
 center of the company’s revenue model.
@@ -46,4 +46,4 @@ Technologies used:
 BS in Electrical Engineering with a focus in micro-electronics and autonomous robotics
 
 #### **Technologies used:**
-JavaScript, React, Redux, HTML, GraphQL, Node.js, Java, Scala, Python, C#, Kotlin, Swift, Objective C, Maven, Gradle, Docker, Git, Eclipse, IntelliJ Idea, VSCode, Postgres, SQL, Bash, Clojure, Cassandra, Oracle, Spark, Hadoop, Firebase, Android Studio, Android SDK, TestFlight, Android API, Android Location Services, AWS CloudFormation, AWS CloudWatch, AWS ECS, AWS EC2, AWS S3, AWS Fargate, AWS API Gateway, AWS Route 53, AWS RDS, AWS VPC, AWS CloudFront, AWS Cognito, AWS Dynamo DB, AWS Kinesis, AWS EMR, AWS Athena, AWS Lamba, AWS Chatbot, AWS Kubernetes, BASIC, C++, Matlab, Solidworks, 3dMax, Unreal Engine, Unity, Adobe Illustrator, Adobe XD, Poser 3D, Maya, and others.
+JavaScript, Typescript, React, Node.js, Java, Kotlin, Swift, Clojure, Scala, Objective C, Python, C#, Postgres, SQL, Bash, Maven, Gradle, Docker, Git,  Redux, HTML, GraphQL, Cassandra, Oracle, Spark, Hadoop, Firebase, Android Studio, Android SDK, TestFlight, Android API, Android Location Services, AWS CloudFormation, AWS CloudWatch, AWS ECS, AWS EC2, AWS S3, AWS Fargate, AWS API Gateway, AWS Route 53, AWS RDS, AWS VPC, AWS CloudFront, AWS Cognito, AWS Dynamo DB, AWS Kinesis, AWS EMR, AWS Athena, AWS Lamba, AWS Chatbot, AWS Kubernetes, BASIC, C++, Eclipse, IntelliJ Idea, VSCode, Matlab, Solidworks, 3dMax, Unreal Engine, Unity, Adobe Illustrator, Adobe XD, Poser 3D, Maya, and others.
