@@ -3,7 +3,7 @@
 ## Full-stack Software Engineer 
 ##### jcb.keller@gmail.com | +1 (423) 600-9116 | [LinkedIn](https://www.linkedin.com/in/jacob-keller-490b35128/)
 
-I’m a software engineer and startup veteran with a heavy focus on creating products that users love.
+I’m a software engineer and startup veteran, focused on creating products that users love.
 
 ### Aerospace (Stealth) / Founding Software Engineer  (Q3 2022)
 I successfully architected and implemented an end-to-end system enabling solo users to control large swarms of autonomous aircraft in high-stakes, real-world scenarios, and all in real-time. Starting from zero, I did everything from high-level architecture and design of cloud and on-vehicle systems, to UX for video-game-like ease of use & 3D real-time visualization/control, and low-level autopilot code & cloud implementation. This product governs all facets of flight operations of all vehicles concurrently, including take-off, mission execution, telemetry, over-the-air live updates, control system handoffs, and touch-down/landing.
@@ -16,7 +16,7 @@ This included:
 * On-vehicle software
 
 ### **Holler / Co-Founder, Director  (2019-present)**
-Co-founded a mobile app startup, with the purpose of connecting people to the physical world around them. I was responsible for the planning and building of the Android and iOS apps. Try out the app here! - https://www.holler.fyi/
+I co-founded a social-media company, focused on providing a digital connection to the physical world around us. It's a fundamentally new way to be in community with the people and things in your world: before, during and after experiences. We developed a proprietary 6-dimensional algorithm and user-experience that brings you the communities that matter in your real life, everywhere you go, all throughout the day. Blends aspects of social, messaging, A/R & web 3.0 technologies. Currently in early-access with select areas & communities, general availability coming in late 2023.
 
 This included:
 - UX/UI design
