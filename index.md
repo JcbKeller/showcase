@@ -5,7 +5,7 @@
 
 I’m a software engineer and startup veteran, focused on creating products that users love.
 
-### Aerospace (Stealth) / Founding Software Engineer  (Q3 2022)**
+### **Aerospace (Stealth) / Founding Software Engineer  (Q3 2022)**
 I successfully architected and implemented an end-to-end system enabling solo users to control large swarms of autonomous aircraft in high-stakes, real-world scenarios, and all in real-time. Starting from zero, I did everything from high-level architecture and design of cloud and on-vehicle systems, to UX for video-game-like ease of use & 3D real-time visualization/control, and low-level autopilot code & cloud implementation. This product governs all facets of flight operations of all vehicles concurrently, including take-off, mission execution, telemetry, over-the-air live updates, control system handoffs, and touch-down/landing.
 
 This included:
